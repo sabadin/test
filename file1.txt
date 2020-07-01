@@ -1,6 +1,10 @@
 commit1
 commit2
+<<<<<<< HEAD
 commit3
 commit4
 commit5
 commit6
+=======
+commit3
+>>>>>>> 569a8239eee60e0d32ee09f9bb341985f4bffeba
